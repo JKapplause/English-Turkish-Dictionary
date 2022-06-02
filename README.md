@@ -10,6 +10,7 @@ Splash Screen
 ![image](https://user-images.githubusercontent.com/44523590/171744333-c2b211a8-3a2c-47fd-8a70-eae5e75bf791.png)
 
 Main
+
 ![image](https://user-images.githubusercontent.com/44523590/171744378-1c910008-6c3e-4c9d-91d3-fcf6a0eb4ae6.png)
 
 ![image](https://user-images.githubusercontent.com/44523590/171744406-3e2cb9ab-8bc1-41dc-8ec2-961ea8335f66.png)
