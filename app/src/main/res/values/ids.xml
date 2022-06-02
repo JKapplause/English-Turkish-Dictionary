@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textTitle" type="id" />
+    <item name="imageOnboarding" type="id" />
+    <item name="textDescription" type="id" />
+    <item name="kelime_card" type="id" />
+    <item name="textViewIngilizces" type="id" />
+    <item name="textViewTurkce" type="id" />
+    <item name="onboardingViewPager" type="id" />
+</resources>
