@@ -1,5 +1,6 @@
 # english-turkish-dictionary
-dictionary
+
+Bu projemde kullanıcı girdiği kelimelerin ingilizce karşılığını bulur.
 
 Splash Screen
 
